@@ -1,0 +1,3 @@
+npm init vite@latest todo-app 
+
+use fantacss to design 
